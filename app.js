@@ -7,6 +7,7 @@ var config = {
   app_id: 2892,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
   app_name: 'QuickDownCasino',
+  app_secret: 86c87782-7773-49a4-b434-8feb1eaef893,
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
